@@ -11,7 +11,7 @@ var students = [
         Career: "IDYGS"
     },
     {
-        lname: "Mendoza",
+        lname: "Mendiola",
         name: "Francisco",
         age: 23,
         birthday: {
